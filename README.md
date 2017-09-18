@@ -1,1 +1,2 @@
-jamesscholl.com
+# jamesscholl.github.io
+my website
